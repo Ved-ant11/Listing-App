@@ -1,8 +1,9 @@
-# React + Vite
+Listing App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React app that allows users to add items to a list using an input field. Items are displayed as list items below the input field, making it easy to manage and view added items in real-time.
 
-Currently, two official plugins are available:
+Features:-
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-Add items via the input field.
+-View all added items displayed in a list.
+-Clean, user-friendly interface.
